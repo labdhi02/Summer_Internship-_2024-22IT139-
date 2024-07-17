@@ -35,7 +35,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 
 - Started designing the Home page and About Us page.
 
-  #### 1️⃣ Week 2
+####  Week 2
 
 **Outline of Week-2:**
 
@@ -49,7 +49,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
   
 - Added another two sections on navbar.
 
-  #### 1️⃣ Week 3
+<h3>#### 1️⃣ Week 3 </h3>
 
 **Outline of Week-3:**
 
