@@ -2,6 +2,7 @@
 ## 4th Sem Summer Internship
 
 🌟 **Project Information Management System** 🌟
+
 Welcome to my GitHub repository for the Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with React.js.
 
 ---
@@ -33,3 +34,34 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Created 2 banners for the home page using Canva and designed the logo for Fashnaire.
 
 - Started designing the Home page and About Us page.
+
+  #### 1️⃣ Week 2
+
+**Outline of Week-2:**
+
+- Understood the concept of Elementor and contact form plugins.
+  
+- Contact Form 7 allows for the creation and customization of contact forms, enhancing user interaction on websites. Elementor is a powerful page builder that offers a drag-and-drop interface, making it easy to design visually appealing and responsive designs.
+  
+- Understood the concept of menus and how to design header and footer and then Designed the header section and footer section
+  
+- Adding the whatsapp plugin 
+  
+- Added another two sections on navbar.
+
+  #### 1️⃣ Week 3
+
+**Outline of Week-3:**
+
+- Explored about woocommerce.
+  
+- Understood the concept of how to add products. Added  categories for the products based on the client’s requirement.
+  
+- Added the size and color customization for the products.
+  
+- Added privacy policy , return policy , shipping policy.
+
+
+
+
+
